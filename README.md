@@ -1,3 +1,3 @@
 # Cryptopals
 
-Solutions of challenges of criptopals.com
+Solutions of challenges of cryptopals.com
